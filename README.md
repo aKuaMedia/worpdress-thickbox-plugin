@@ -38,9 +38,15 @@ e) Cambios menores de idioma de textos (a Español)
 
 
 
-TO-DO:
+**************************************************************
+
+	TO-DO
+
+**************************************************************
 
 a) Internacionalicación de textos o paso por parámetros de textos (anterior, siguiente, Image X de Y, cerrar...)
+b) Minimizar js para producción
+c) minimizar css para producción
 
 
 
